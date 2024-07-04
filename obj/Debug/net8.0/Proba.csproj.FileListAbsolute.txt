@@ -35,3 +35,4 @@ E:\source\Proba\bin\Debug\net8.0\System.Web.WebPages.dll
 E:\source\Proba\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
 E:\source\Proba\obj\Debug\net8.0\Proba.csproj.AssemblyReference.cache
 E:\source\Proba\obj\Debug\net8.0\Proba.csproj.CopyComplete
+E:\source\Proba\obj\Debug\net8.0\Proba.sourcelink.json
