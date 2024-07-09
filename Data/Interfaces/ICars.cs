@@ -8,7 +8,7 @@ namespace Proba.Data.Interfaces
     public interface ICars
     {
         IEnumerable<Car> Cars { get;  }
-        IEnumerable<Car> GetFavCars { get; set; }
+        IEnumerable<Car> GetFavCars { get; }
         Car GetObjectCar(int carID);
     }
 }
